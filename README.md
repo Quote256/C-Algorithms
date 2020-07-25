@@ -7,5 +7,12 @@ A collection of useful C++ algorithms, data structures, and information.
 * Sorting
 
 ### Data Structures
-* 
+* Arrays
+* Hash Tables
+* Linked Lists
+* Maps
+* Queues
+* Stacks
+* Trees
+* Graphs
 
