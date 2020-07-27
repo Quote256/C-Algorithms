@@ -26,6 +26,7 @@
 *.la
 *.a
 *.lib
+main
 
 # Executables
 *.exe
@@ -33,6 +34,7 @@
 *.app
 
 ### VisualStudioCode ###
+.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
