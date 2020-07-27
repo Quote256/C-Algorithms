@@ -1,3 +1,4 @@
+//This an example of a hash table, also know as a map
 #include <iostream>
 #include <map>
 #include <string>
