@@ -15,6 +15,6 @@ A collection of useful C++ algorithms, data structures, and information.
 * Stacks
 * Trees
 * Graphs
-###Other Topics
+### Other Topics
 * Recursion
 * Dynamic Programming
