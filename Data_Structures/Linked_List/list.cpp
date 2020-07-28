@@ -3,8 +3,10 @@
 #include <iostream>
 #include "List.h"
 
-int main()
+List::List()
 {
+}
 
-    return 0;
+List::~List()
+{
 }
