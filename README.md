@@ -2,7 +2,6 @@
 A collection of useful C++ algorithms, data structures, and information.
 
 ### Algorithms
-* Binary Search 
 * Searching
 * Sorting
 
