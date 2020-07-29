@@ -8,6 +8,7 @@ private:
 public:
     List(/* args */);
     ~List();
+    void AddElement(int x);
 };
 
 #endif
