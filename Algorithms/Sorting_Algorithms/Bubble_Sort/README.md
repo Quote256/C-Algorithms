@@ -57,5 +57,3 @@ Optimized Bubble Sort: 400 ns
   
 ## Conclusion: 
 It can be seen that optimized bubble sort is much more time efficient in comparison with normal bubble sort.
-
-- Aditya Mandke
