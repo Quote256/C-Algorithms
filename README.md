@@ -4,6 +4,11 @@ A collection of useful C++ algorithms, data structures, and information.
 ### Algorithms
 * Searching
 * Sorting
+  * Selection Sort
+  * Bubble Sort
+  * Insertion Sort
+  * Merge Sort
+  * Quick Sort
 
 ### Data Structures
 * Arrays
